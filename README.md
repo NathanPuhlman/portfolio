@@ -17,4 +17,4 @@ To test it, javac and java must be installed on your machine.
 3. run `java Driver` and watch the sim play out in a separate window
 
 The instructions we were given in this project are located in the
-fire_spread_sim/CSCI165_MidtermProject_Spring2023.pdf file.
+`fire_spread_sim/CSCI165_MidtermProject_Spring2023.pdf file.`
